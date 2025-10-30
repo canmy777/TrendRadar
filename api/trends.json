@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T10:39:18.919128+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-10-30T11:19:15.729812+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时32分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[05时32分 ~ 11时19分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时32分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
+          "url": "https://news.ifeng.com/c/8nrhIL4dt2o",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -54,6 +66,42 @@
           "time_info": "[05时32分 ~ 10时39分]"
         },
         {
+          "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
+          "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
+        },
+        {
+          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时32分 ~ 11时19分]"
+        },
+        {
+          "title": "习近平同特朗普会晤开始",
+          "url": "https://www.toutiao.com/trending/7566827332992880174/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 11时19分]"
+        },
+        {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -65,16 +113,37 @@
           "time_info": "[05时32分 ~ 07时28分]"
         },
         {
-          "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
-          "url": "https://news.ifeng.com/c/8nrhIL4dt2o",
-          "source": "凤凰网",
+          "title": "习近平同美国总统特朗普会晤开始",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E5%BC%80%E5%A7%8B",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
+          "time_info": "[10时38分 ~ 11时19分]"
+        },
+        {
+          "title": "习近平同特朗普在韩国举行会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 11时19分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 11时19分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -99,6 +168,17 @@
           "time_info": "[05时32分 ~ 07时28分]"
         },
         {
+          "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
+          "url": "https://news.ifeng.com/c/8nr4aV0B7Kq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 11时19分]"
+        },
+        {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
           "url": "https://www.zhihu.com/question/1966809012960977218",
           "source": "知乎",
@@ -110,84 +190,61 @@
           "time_info": "[05时32分 ~ 07时28分]"
         },
         {
-          "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
-          "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
-        },
-        {
-          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时32分 ~ 10时39分]"
-        },
-        {
-          "title": "习近平同特朗普会晤开始",
-          "url": "https://www.toutiao.com/trending/7566827332992880174/",
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.toutiao.com/trending/7566661509154131492/",
           "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会晤开始",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E5%BC%80%E5%A7%8B",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "习近平同特朗普在韩国举行会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
-          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
-          "url": "https://news.ifeng.com/c/8nr4aV0B7Kq",
-          "source": "凤凰网",
+          "title": "特朗普：美中会达成更多共识",
+          "url": "https://www.douyin.com/hot/2288217",
+          "source": "抖音",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "迎接特朗普，高市早苗笑了一天",
+          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
+        },
+        {
+          "title": "中美元首会晤开始前，习近平同特朗普握手合影。 （央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2996439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普与卡尼在韩国会面",
+          "url": "https://www.toutiao.com/trending/7566635154380734500/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
         },
         {
           "title": "中断30逾年 特朗普下令重启核武器试验",
@@ -196,7 +253,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -236,17 +293,6 @@
           "time_info": "[10时02分 ~ 10时39分]"
         },
         {
-          "title": "迎接特朗普，高市早苗笑了一天",
-          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
-        },
-        {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
           "url": "https://flash.jin10.com/detail/20251030055720412800",
           "source": "金十数据",
@@ -277,18 +323,6 @@
           "ranks": [
             14,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普与卡尼在韩国会面",
-          "url": "https://www.toutiao.com/trending/7566635154380734500/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -379,6 +413,28 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
+          "title": "报告称特朗普自我挖坑给了中国底牌",
+          "url": "https://www.toutiao.com/trending/7566186370935537710/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "评论员：特朗普亚洲行成日韩争宠赛",
+          "url": "https://www.toutiao.com/trending/7566615433525071414/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "周三（10月29日），“特朗普关税输家”指数跌1.73%，报108.21点。",
           "url": "https://wallstreetcn.com/livenews/2996208",
           "source": "华尔街见闻-快讯",
@@ -391,15 +447,37 @@
           "time_info": "[05时33分 ~ 06时27分]"
         },
         {
+          "title": "特朗普在韩演讲谈及俄乌冲突",
+          "url": "https://www.toutiao.com/trending/7566452631020617782/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "日本内阁官房长官木原稔：对于美国总统特朗普在社交媒体上发布的指示恢复核武器试验的帖子，不予置评。",
           "url": "https://flash.jin10.com/detail/20251030101933445800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好的关系",
+          "url": "https://wallstreetcn.com/livenews/2996427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "习近平同美国总统特朗普会晤开始",
@@ -408,7 +486,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -605,8 +683,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 10时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时27分 ~ 11时19分]"
         },
         {
           "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
@@ -614,11 +692,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -685,6 +764,29 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
+        },
+        {
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
+        },
+        {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
           "url": "https://wallstreetcn.com/livenews/2996237",
           "source": "华尔街见闻-快讯",
@@ -695,29 +797,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时28分]"
-        },
-        {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
-        },
-        {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -746,8 +825,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 10时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 11时19分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 11时19分]"
         },
         {
           "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
@@ -760,17 +850,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时28分]"
-        },
-        {
-          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
-          "url": "https://wallstreetcn.com/articles/3758225",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 10时39分]"
         },
         {
           "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
@@ -797,7 +876,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -849,7 +928,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
