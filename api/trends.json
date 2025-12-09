@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T17:31:23.544222+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-09T18:32:21.632947+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -215,6 +215,18 @@
           "time_info": "[04时31分 ~ 05时22分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时32分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -312,17 +324,6 @@
           "time_info": "[05时22分 ~ 06时26分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时31分]"
-        },
-        {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
           "url": "https://flash.jin10.com/detail/20251209041301695800",
           "source": "金十数据",
@@ -417,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209181308403800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -524,7 +536,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -546,7 +558,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -867,7 +879,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -886,7 +898,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1069,6 +1081,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -1119,8 +1142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 18时32分]"
         }
       ]
     },
@@ -1187,7 +1210,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1217,8 +1240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 18时32分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
