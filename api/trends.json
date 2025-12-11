@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:29:40.641057+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-11T14:42:47.283631+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时42分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 00时39分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -287,7 +288,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -320,7 +321,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -602,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时42分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -614,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时42分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
