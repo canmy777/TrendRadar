@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:42:21.776203+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-12-17T15:28:59.766707+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时28分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时28分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -259,8 +259,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 15时28分]"
         },
         {
           "title": "马斯克又要给特朗普花钱了",
@@ -421,7 +421,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -531,6 +531,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 15时28分]"
+        },
+        {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
@@ -541,19 +554,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 14时42分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
